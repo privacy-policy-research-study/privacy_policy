@@ -469,3 +469,8 @@ main {
 .spotify-visual-header,.text-policy-header,.verify-policy-header,.chat-header{text-align:center}
 .spotify-visual-header h1,.text-policy-header h1,.verify-policy-header h1,.chat-header h1,.spotify-legal-article>h1{text-align:center}
 .spotify-legal-eyebrow,.spotify-effective{text-align:center}
+
+/* New study navigation only; approved presentation styles remain unchanged. */
+.study-completion-footer{padding:44px 20px 58px;text-align:center;background:#f4faf5;border-top:1px solid #e1eae4;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.study-completion-footer p{font-size:17px;color:#243b2b;margin:0 0 10px}
+.study-action-link{display:inline-block;text-decoration:none}
